@@ -1,0 +1,8 @@
+{
+  "name": "RCITravel",
+  "app_id": "96d6d8ea",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
